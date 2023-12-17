@@ -6,6 +6,7 @@ Course | Professor - CS 454 Theory of Computation | Dr. Balasubramanian Ravikuma
 Due Date - 12/17/2023
 
 Problem Description:
+
 Given two strings x and y of the same length N over a finite alphabet Σ of size M.
 (N and M are user inputs so your solution should work for arbitrary N and M.)
 Consider a game involving two players A and B. A random string over the alphabet Σ is generated until x or y appears.
